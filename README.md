@@ -43,12 +43,11 @@ flowchart TB
 - [ ] Phase 2: Client workstation VM domain join and GPO verification
 - [ ] Phase 3: Microsoft 365 cloud tenant setup, MFA, and Conditional Access
 - [ ] Phase 4: Hybrid identity sync (Entra Connect) and Intune enrolment
-- [ ] Phase 5: Documentation polish and resume integration
 
 ## Documentation
 
 - [Phase 1 — On-premises foundation](docs/phase-1.md)
-- Phase 2 — Endpoint join (to be added)
+- [Phase 2 — Endpoint join](docs/phase-2.md)
 - Phase 3 — Microsoft 365 tenant (to be added)
 - Phase 4 — Hybrid sync and Intune (to be added)
 
