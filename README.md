@@ -49,7 +49,7 @@ flowchart TB
 - [Phase 1 — On-premises foundation](docs/phase-1.md)
 - [Phase 2 — Endpoint join](docs/phase-2.md)
 - [Phase 3 — Microsoft 365 tenant, Entra ID, MFA and Conditional Access](docs/phase-3.md)
-- Phase 4 — Hybrid sync and Intune (to be added)
+- [Phase 4 — Entra Connect Sync, hybrid join and Intune](docs/phase-4.md)
 
 ## Note on PowerShell
 
